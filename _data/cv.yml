@@ -20,8 +20,7 @@
       institution: Concordia College, Moorhead, Minnesota, United States
       year: 2022
       description:
-        
-        - "Triple major: Neuroscience, Biology (honors), & Religion (honors)
+        - Triple major: Neuroscience, Biology (honors), & Religion (honors)
         - Dean's List each semester for the final two years
 
 - title: Publications
@@ -60,7 +59,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: "al-folio (https://github.com/alshedivat/al-folio)"
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
