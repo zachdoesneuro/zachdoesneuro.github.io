@@ -2,31 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: ZacharyStrickland
+      value: Zachary Strickland 
     - name: Languages
-      value: English, Spanish(Intermediate)
+      value: English, Spanish (Intermediate)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Florida, United States
+      year: 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Characterization of the axolotl tau protein
+        - Funded on ADRD T32 training grant
+        - Individual NRSA F31 Fellowship submitted April 8, 2025
+    - title: B.A. Neuroscience, Biology (Honors), & Religion (Honors), Cum Laude
+      institution: Concordia College, Moorhead, Minnesota, United States
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 3.66"
+        - "Triple major: Neuroscience, Biology (honors), & Religion (honors)
+        - Dean's List each semester for the final two years
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
