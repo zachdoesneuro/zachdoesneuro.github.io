@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-"<a href='https://ctrnd.med.ufl.edu/profile/strickland-zachary/'>Affiliations</a>. Address. Contacts. Motto. Etc."
+subtitle:"<a href='https://ctrnd.med.ufl.edu/profile/strickland-zachary/'>Affiliations</a>. Address. Contacts. Motto. Etc."
 
 profile:
   align: right
